@@ -1,0 +1,11 @@
+{
+    "name": "raidkon/php-project-lvl1",
+    "type": "project",
+    "authors": [
+        {
+            "name": "raidkon",
+            "email": "n@raidkon.com"
+        }
+    ],
+    "require": {}
+}
