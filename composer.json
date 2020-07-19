@@ -1,11 +1,14 @@
 {
-    "name": "raidkon/php-project-lvl1",
-    "type": "project",
-    "authors": [
-        {
-            "name": "raidkon",
-            "email": "n@raidkon.com"
-        }
-    ],
-    "require": {}
+  "name": "raidkon/php-project-lvl1",
+  "type": "project",
+  "authors": [
+    {
+      "name": "raidkon",
+      "email": "n@raidkon.com"
+    }
+  ],
+  "bin": [
+    "bin/brain-games"
+  ],
+  "require": {}
 }
