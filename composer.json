@@ -8,7 +8,8 @@
     }
   ],
   "bin": [
-    "bin/brain-games"
+    "bin/brain-games",
+    "bin/brain-even"
   ],
   "scripts": {
     "phpcs": "php vendor/squizlabs/php_codesniffer/bin/phpcs"
