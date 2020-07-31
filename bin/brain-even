@@ -21,14 +21,14 @@ do {
 
     if ($answer != $correctAnswer) {
         line("'$answer' is wrong answer ;(. Correct answer was '$correctAnswer'.");
-        line("Let's try again, Bill!");
+        line("Let's try again, $name!");
         return;
     }
 
     line("Correct!");
     $successCount++;
     if ($successCount >= 3) {
-        line("Congratulations, Bill!");
+        line("Congratulations, $name!");
         return;
     }
 } while (true);
